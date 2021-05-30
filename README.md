@@ -1,2 +1,2 @@
 # Beige and Brown
-Treinando Grid
+Treinando Grid e Responsivo
